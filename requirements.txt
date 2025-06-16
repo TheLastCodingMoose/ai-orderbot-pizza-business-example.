@@ -1,0 +1,7 @@
+openai
+python-dotenv
+panel
+
+Generate it from your virtual environment:
+
+pip freeze > requirements.txt
