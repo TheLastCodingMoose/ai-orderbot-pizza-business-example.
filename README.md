@@ -19,7 +19,7 @@ git clone https://github.com/THeLastCodingMoose/ai-orderbot-pizza-business-examp
 cd ai-orderbot
 
 
-### 2. Set up the environment
+2. Set up the environment
 python -m venv venv
 source venv/bin/activate  # Windows: venv\Scripts\activate
 pip install -r requirements.txt
